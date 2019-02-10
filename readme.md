@@ -13,6 +13,6 @@ If you find our code helpful in your resarch or work, please cite our paper.
   url={arxiv.org/abs/1805.09965},
   year = 	 {2018},
   address = 	 {Montreal, Canada},
-  month = 	 Dec
+  month = 	 {December}
 }
 ```
