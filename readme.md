@@ -4,7 +4,7 @@ Matlab implementation of our paper: T. Chen, G. B. Giannakis, T. Sun, and W. Yin
 
 ## **Reference**
 If you find our code helpful in your resarch or work, please cite our paper.
-
+```
 @Inproceedings{chen2018nips,
   title={{LAG}: {L}azily Aggregated Gradient for Communication-Efficient Distributed Learning},
   author={Chen, Tianyi and Giannakis, Georgios B. and Sun, Tao and Yin, Wotao},
@@ -14,3 +14,4 @@ If you find our code helpful in your resarch or work, please cite our paper.
   address = 	 {Montreal, Canada},
   month = 	 Dec
 }
+```
